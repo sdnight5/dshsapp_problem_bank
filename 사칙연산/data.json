@@ -1,0 +1,402 @@
+[
+  {
+    "input": "2470 4800",
+    "expected_output": "7270\n-2330\n11856000\n0\n2470"
+  },
+  {
+    "input": "3151 132",
+    "expected_output": "3283\n3019\n415932\n23\n115"
+  },
+  {
+    "input": "2367 9161",
+    "expected_output": "11528\n-6794\n21684087\n0\n2367"
+  },
+  {
+    "input": "4860 832",
+    "expected_output": "5692\n4028\n4043520\n5\n700"
+  },
+  {
+    "input": "2146 6783",
+    "expected_output": "8929\n-4637\n14556318\n0\n2146"
+  },
+  {
+    "input": "7685 7585",
+    "expected_output": "15270\n100\n58290725\n1\n100"
+  },
+  {
+    "input": "2477 4705",
+    "expected_output": "7182\n-2228\n11654285\n0\n2477"
+  },
+  {
+    "input": "1655 4016",
+    "expected_output": "5671\n-2361\n6646480\n0\n1655"
+  },
+  {
+    "input": "5812 3935",
+    "expected_output": "9747\n1877\n22870220\n1\n1877"
+  },
+  {
+    "input": "7698 1082",
+    "expected_output": "8780\n6616\n8329236\n7\n124"
+  },
+  {
+    "input": "8110 5094",
+    "expected_output": "13204\n3016\n41312340\n1\n3016"
+  },
+  {
+    "input": "3205 4885",
+    "expected_output": "8090\n-1680\n15656425\n0\n3205"
+  },
+  {
+    "input": "5777 6786",
+    "expected_output": "12563\n-1009\n39202722\n0\n5777"
+  },
+  {
+    "input": "8875 4173",
+    "expected_output": "13048\n4702\n37035375\n2\n529"
+  },
+  {
+    "input": "9678 6428",
+    "expected_output": "16106\n3250\n62210184\n1\n3250"
+  },
+  {
+    "input": "7854 5008",
+    "expected_output": "12862\n2846\n39332832\n1\n2846"
+  },
+  {
+    "input": "1030 5136",
+    "expected_output": "6166\n-4106\n5290080\n0\n1030"
+  },
+  {
+    "input": "5214 9916",
+    "expected_output": "15130\n-4702\n51702024\n0\n5214"
+  },
+  {
+    "input": "3312 6018",
+    "expected_output": "9330\n-2706\n19931616\n0\n3312"
+  },
+  {
+    "input": "724 4446",
+    "expected_output": "5170\n-3722\n3218904\n0\n724"
+  },
+  {
+    "input": "1663 306",
+    "expected_output": "1969\n1357\n508878\n5\n133"
+  },
+  {
+    "input": "9844 9019",
+    "expected_output": "18863\n825\n88783036\n1\n825"
+  },
+  {
+    "input": "8095 8091",
+    "expected_output": "16186\n4\n65496645\n1\n4"
+  },
+  {
+    "input": "634 6850",
+    "expected_output": "7484\n-6216\n4342900\n0\n634"
+  },
+  {
+    "input": "6864 3485",
+    "expected_output": "10349\n3379\n23921040\n1\n3379"
+  },
+  {
+    "input": "2762 9310",
+    "expected_output": "12072\n-6548\n25714220\n0\n2762"
+  },
+  {
+    "input": "7851 5362",
+    "expected_output": "13213\n2489\n42097062\n1\n2489"
+  },
+  {
+    "input": "5134 529",
+    "expected_output": "5663\n4605\n2715886\n9\n373"
+  },
+  {
+    "input": "3212 9451",
+    "expected_output": "12663\n-6239\n30356612\n0\n3212"
+  },
+  {
+    "input": "2314 6360",
+    "expected_output": "8674\n-4046\n14717040\n0\n2314"
+  },
+  {
+    "input": "1484 493",
+    "expected_output": "1977\n991\n731612\n3\n5"
+  },
+  {
+    "input": "5525 256",
+    "expected_output": "5781\n5269\n1414400\n21\n149"
+  },
+  {
+    "input": "3089 2850",
+    "expected_output": "5939\n239\n8803650\n1\n239"
+  },
+  {
+    "input": "4792 934",
+    "expected_output": "5726\n3858\n4475728\n5\n122"
+  },
+  {
+    "input": "6696 5696",
+    "expected_output": "12392\n1000\n38140416\n1\n1000"
+  },
+  {
+    "input": "3804 4293",
+    "expected_output": "8097\n-489\n16330572\n0\n3804"
+  },
+  {
+    "input": "7430 3041",
+    "expected_output": "10471\n4389\n22594630\n2\n1348"
+  },
+  {
+    "input": "9347 8078",
+    "expected_output": "17425\n1269\n75505066\n1\n1269"
+  },
+  {
+    "input": "352 9152",
+    "expected_output": "9504\n-8800\n3221504\n0\n352"
+  },
+  {
+    "input": "5944 3387",
+    "expected_output": "9331\n2557\n20132328\n1\n2557"
+  },
+  {
+    "input": "8954 9223",
+    "expected_output": "18177\n-269\n82582742\n0\n8954"
+  },
+  {
+    "input": "9674 6621",
+    "expected_output": "16295\n3053\n64051554\n1\n3053"
+  },
+  {
+    "input": "2871 9313",
+    "expected_output": "12184\n-6442\n26737623\n0\n2871"
+  },
+  {
+    "input": "9358 8656",
+    "expected_output": "18014\n702\n81002848\n1\n702"
+  },
+  {
+    "input": "7518 8024",
+    "expected_output": "15542\n-506\n60324432\n0\n7518"
+  },
+  {
+    "input": "5396 4530",
+    "expected_output": "9926\n866\n24443880\n1\n866"
+  },
+  {
+    "input": "5291 4818",
+    "expected_output": "10109\n473\n25492038\n1\n473"
+  },
+  {
+    "input": "6662 4309",
+    "expected_output": "10971\n2353\n28706558\n1\n2353"
+  },
+  {
+    "input": "9202 8821",
+    "expected_output": "18023\n381\n81170842\n1\n381"
+  },
+  {
+    "input": "9226 3686",
+    "expected_output": "12912\n5540\n34007036\n2\n1854"
+  },
+  {
+    "input": "6065 2421",
+    "expected_output": "8486\n3644\n14683365\n2\n1223"
+  },
+  {
+    "input": "8789 7222",
+    "expected_output": "16011\n1567\n63474158\n1\n1567"
+  },
+  {
+    "input": "7407 2202",
+    "expected_output": "9609\n5205\n16310214\n3\n801"
+  },
+  {
+    "input": "6877 1117",
+    "expected_output": "7994\n5760\n7681609\n6\n175"
+  },
+  {
+    "input": "1989 1356",
+    "expected_output": "3345\n633\n2697084\n1\n633"
+  },
+  {
+    "input": "2146 2137",
+    "expected_output": "4283\n9\n4586002\n1\n9"
+  },
+  {
+    "input": "3609 1205",
+    "expected_output": "4814\n2404\n4348845\n2\n1199"
+  },
+  {
+    "input": "5660 2942",
+    "expected_output": "8602\n2718\n16651720\n1\n2718"
+  },
+  {
+    "input": "4747 3390",
+    "expected_output": "8137\n1357\n16092330\n1\n1357"
+  },
+  {
+    "input": "1212 3088",
+    "expected_output": "4300\n-1876\n3742656\n0\n1212"
+  },
+  {
+    "input": "9954 3098",
+    "expected_output": "13052\n6856\n30837492\n3\n660"
+  },
+  {
+    "input": "3900 5866",
+    "expected_output": "9766\n-1966\n22877400\n0\n3900"
+  },
+  {
+    "input": "1707 5366",
+    "expected_output": "7073\n-3659\n9159762\n0\n1707"
+  },
+  {
+    "input": "2252 7994",
+    "expected_output": "10246\n-5742\n18002488\n0\n2252"
+  },
+  {
+    "input": "8627 5174",
+    "expected_output": "13801\n3453\n44636098\n1\n3453"
+  },
+  {
+    "input": "7106 7914",
+    "expected_output": "15020\n-808\n56236884\n0\n7106"
+  },
+  {
+    "input": "4372 9498",
+    "expected_output": "13870\n-5126\n41525256\n0\n4372"
+  },
+  {
+    "input": "7656 2024",
+    "expected_output": "9680\n5632\n15495744\n3\n1584"
+  },
+  {
+    "input": "4617 3054",
+    "expected_output": "7671\n1563\n14100318\n1\n1563"
+  },
+  {
+    "input": "7615 9186",
+    "expected_output": "16801\n-1571\n69951390\n0\n7615"
+  },
+  {
+    "input": "7424 6630",
+    "expected_output": "14054\n794\n49221120\n1\n794"
+  },
+  {
+    "input": "1245 4768",
+    "expected_output": "6013\n-3523\n5936160\n0\n1245"
+  },
+  {
+    "input": "767 3887",
+    "expected_output": "4654\n-3120\n2981329\n0\n767"
+  },
+  {
+    "input": "7236 2819",
+    "expected_output": "10055\n4417\n20398284\n2\n1598"
+  },
+  {
+    "input": "5367 5427",
+    "expected_output": "10794\n-60\n29126709\n0\n5367"
+  },
+  {
+    "input": "1170 8162",
+    "expected_output": "9332\n-6992\n9549540\n0\n1170"
+  },
+  {
+    "input": "4095 9559",
+    "expected_output": "13654\n-5464\n39144105\n0\n4095"
+  },
+  {
+    "input": "7380 794",
+    "expected_output": "8174\n6586\n5859720\n9\n234"
+  },
+  {
+    "input": "1363 4711",
+    "expected_output": "6074\n-3348\n6421093\n0\n1363"
+  },
+  {
+    "input": "1350 946",
+    "expected_output": "2296\n404\n1277100\n1\n404"
+  },
+  {
+    "input": "7373 4439",
+    "expected_output": "11812\n2934\n32728747\n1\n2934"
+  },
+  {
+    "input": "8312 5306",
+    "expected_output": "13618\n3006\n44103472\n1\n3006"
+  },
+  {
+    "input": "4156 1613",
+    "expected_output": "5769\n2543\n6703628\n2\n930"
+  },
+  {
+    "input": "6157 8653",
+    "expected_output": "14810\n-2496\n53276521\n0\n6157"
+  },
+  {
+    "input": "786 2951",
+    "expected_output": "3737\n-2165\n2319486\n0\n786"
+  },
+  {
+    "input": "498 5492",
+    "expected_output": "5990\n-4994\n2735016\n0\n498"
+  },
+  {
+    "input": "5417 2777",
+    "expected_output": "8194\n2640\n15043009\n1\n2640"
+  },
+  {
+    "input": "4451 9356",
+    "expected_output": "13807\n-4905\n41643556\n0\n4451"
+  },
+  {
+    "input": "5644 3194",
+    "expected_output": "8838\n2450\n18026936\n1\n2450"
+  },
+  {
+    "input": "1646 4574",
+    "expected_output": "6220\n-2928\n7528804\n0\n1646"
+  },
+  {
+    "input": "5037 9172",
+    "expected_output": "14209\n-4135\n46199364\n0\n5037"
+  },
+  {
+    "input": "4450 6472",
+    "expected_output": "10922\n-2022\n28800400\n0\n4450"
+  },
+  {
+    "input": "7934 5414",
+    "expected_output": "13348\n2520\n42954676\n1\n2520"
+  },
+  {
+    "input": "9089 5054",
+    "expected_output": "14143\n4035\n45935806\n1\n4035"
+  },
+  {
+    "input": "4171 346",
+    "expected_output": "4517\n3825\n1443166\n12\n19"
+  },
+  {
+    "input": "2185 1702",
+    "expected_output": "3887\n483\n3718870\n1\n483"
+  },
+  {
+    "input": "1071 6363",
+    "expected_output": "7434\n-5292\n6814773\n0\n1071"
+  },
+  {
+    "input": "826 5670",
+    "expected_output": "6496\n-4844\n4683420\n0\n826"
+  },
+  {
+    "input": "1675 3231",
+    "expected_output": "4906\n-1556\n5411925\n0\n1675"
+  },
+  {
+    "input": "1743 8097",
+    "expected_output": "9840\n-6354\n14113071\n0\n1743"
+  }
+]
